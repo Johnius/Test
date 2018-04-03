@@ -1,0 +1,12 @@
+{
+    "fileLocations": [
+        {
+            "URIPrefixes": [
+                "s3://test_stream_2_aggregated_output_"
+            ]
+        }
+    ],
+    "globalUploadSettings": {
+        "containsHeader": false
+    }
+}
